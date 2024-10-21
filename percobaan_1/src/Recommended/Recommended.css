@@ -1,0 +1,18 @@
+.recommended-section {
+    padding: 15px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+
+  .recommended-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #6f6c6c;
+    margin-bottom: 20px;
+    text-align: left; 
+    margin-left: 20rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
